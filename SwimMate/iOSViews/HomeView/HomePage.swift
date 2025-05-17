@@ -1,9 +1,4 @@
-//
-//  HomePage.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/14/24.
-//
+// SwimMate/iOSViews/HomeView/HomePage.swift
 
 import SwiftUI
 

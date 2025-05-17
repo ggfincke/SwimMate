@@ -1,9 +1,4 @@
-//
-//  PaceGraphView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// SwimMate/iOSViews/GeneralViews/Charts/PaceGraphView.swift
 
 import SwiftUI
 import Charts

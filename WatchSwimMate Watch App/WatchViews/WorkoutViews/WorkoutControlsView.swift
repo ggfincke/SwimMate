@@ -1,9 +1,4 @@
-//
-//  WorkoutControlsView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/27/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutViews/WorkoutControlsView.swift
 
 import SwiftUI
 

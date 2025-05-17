@@ -1,9 +1,4 @@
-//
-//  SetDetailView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// SwimMate/iOSViews/SetView/SetDetailView.swift
 
 import SwiftUI
 

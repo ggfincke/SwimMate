@@ -1,9 +1,4 @@
-//
-//  iOSWatchConnector.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// WatchSwimMate Watch App/WatchViewModel/toiOSWatchConnector.swift
 
 import Foundation
 import WatchConnectivity

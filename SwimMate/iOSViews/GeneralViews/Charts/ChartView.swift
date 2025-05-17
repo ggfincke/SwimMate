@@ -1,9 +1,4 @@
-//
-//  ChartView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// SwimMate/iOSViews/GeneralViews/Charts/ChartView.swift
 
 import SwiftUI
 import Charts

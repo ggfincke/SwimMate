@@ -1,9 +1,4 @@
-//
-//  LineGraphView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// SwimMate/iOSViews/GeneralViews/Charts/LineGraphView.swift
 
 import SwiftUI
 import Charts

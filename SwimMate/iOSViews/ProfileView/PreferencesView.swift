@@ -1,9 +1,4 @@
-//
-//  PreferencesView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/29/24.
-//
+// SwimMate/iOSViews/ProfileView/PreferencesView.swift
 
 import SwiftUI
 

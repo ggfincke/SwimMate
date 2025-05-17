@@ -1,9 +1,4 @@
-//
-//  WeekView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/14/24.
-//
+// SwimMate/iOSViews/GeneralViews/WeekView.swift
 
 import SwiftUI
 

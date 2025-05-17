@@ -1,18 +1,12 @@
-//
-//  Manager.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/4/24.
-//
+// SwimMate/ViewModel/Manager.swift
 
-// TODO: PREP FOR REACT NATIVE MOVE
 // the iOS manager/view model
 import Foundation
 import HealthKit
 
 class Manager: NSObject, ObservableObject
 {
-    //MARK: vars / init
+    // MARK: vars / init
     // healthkit vars
     var permission: Bool
     let healthStore: HKHealthStore
@@ -34,7 +28,7 @@ class Manager: NSObject, ObservableObject
     @Published var averageCalories: Double = 0.0
 
     
-    //TODO: replace with database integration at some point
+    //TODO: replace with remote database integration at some point
     // very long list of sample sets
     let sampleSets: [SwimSet] = [
         SwimSet(title: "Endurance Challenge", primaryStroke: .freestyle, totalDistance: 2000, measureUnit: .meters, difficulty: .intermediate, description: "A challenging endurance set to boost stamina.", details: ["800 warmup mix", "10x100 on 1:30, descend 1-5, 6-10", "10x50 kick on 1:00", "500 cool down easy"]),

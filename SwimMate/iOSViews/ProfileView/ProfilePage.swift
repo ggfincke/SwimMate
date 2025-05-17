@@ -1,9 +1,4 @@
-//
-//  ProfilePage.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/14/24.
-//
+// SwimMate/iOSViews/ProfileView/ProfilePage.swift
 
 import SwiftUI
 

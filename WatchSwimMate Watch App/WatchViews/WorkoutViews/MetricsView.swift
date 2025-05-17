@@ -1,9 +1,4 @@
-//
-//  MetricsView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutViews/MetricsView.swift
 
 import SwiftUI
 

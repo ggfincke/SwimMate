@@ -1,11 +1,4 @@
-//
-//  SwimMateApp.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/4/24.
-//
-
-// TODO: PREP FOR REACT NATIVE MOVE
+// SwimMate/SwimMateApp.swift
 
 import SwiftUI
 import HealthKit

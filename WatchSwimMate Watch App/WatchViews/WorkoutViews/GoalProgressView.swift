@@ -1,9 +1,4 @@
-//
-//  GoalProgressView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 5/21/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutViews/GoalProgressView.swift
 
 import SwiftUI
 

@@ -1,9 +1,4 @@
-//
-//  NavState.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 5/15/24.
-//
+// WatchSwimMate Watch App/WatchModel/NavState.swift
 
 // navigation states for use in the navigation stack
 import Foundation

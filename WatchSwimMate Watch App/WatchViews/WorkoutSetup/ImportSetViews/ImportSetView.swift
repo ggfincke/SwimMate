@@ -1,9 +1,4 @@
-//
-//  ImportSetView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/28/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutSetup/ImportSetViews/ImportSetView.swift
 
 import SwiftUI
 import HealthKit

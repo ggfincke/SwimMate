@@ -1,9 +1,4 @@
-//
-//  SetDisplayView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/29/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutSetup/ImportSetViews/SetDisplayView.swift
 
 import SwiftUI
 

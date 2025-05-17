@@ -1,9 +1,4 @@
-//
-//  DistanceSetupView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/27/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutSetup/GoalViews/DistanceSetupView.swift
 
 import SwiftUI
 

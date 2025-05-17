@@ -701,6 +701,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SwimMate/SwimMate.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "SwimMate/Preview\\ Content";
@@ -708,6 +709,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SwimMate/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "Uses old workout data for displaying";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "Your workout data is used to suggest new workout plans and exercises";
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Any workout data created with the app will be added to your health data";
@@ -721,8 +723,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = psu.edu.SwimMate;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.fincke.SwimMate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -736,6 +739,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SwimMate/SwimMate.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "SwimMate/Preview\\ Content";
@@ -743,6 +747,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SwimMate/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "Uses old workout data for displaying";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "Your workout data is used to suggest new workout plans and exercises";
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Any workout data created with the app will be added to your health data";
@@ -756,8 +761,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = psu.edu.SwimMate;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.fincke.SwimMate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -784,13 +790,13 @@
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Any workout data created with the app will be added to your health data";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = psu.edu.SwimMate;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = dev.fincke.SwimMate;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = psu.edu.SwimMate.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.fincke.SwimMate.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -821,13 +827,13 @@
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Any workout data created with the app will be added to your health data";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = psu.edu.SwimMate;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = dev.fincke.SwimMate;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = psu.edu.SwimMate.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.fincke.SwimMate.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;

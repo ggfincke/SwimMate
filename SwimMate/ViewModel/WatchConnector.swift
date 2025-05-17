@@ -1,9 +1,4 @@
-//
-//  WatchConnector.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/14/24.
-//
+// SwimMate/ViewModel/WatchConnector.swift
 
 // used for sending sets to the watchOS component
 import Foundation

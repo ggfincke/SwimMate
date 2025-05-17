@@ -1,9 +1,4 @@
-//
-//  SwimmingSummaryView.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/27/24.
-//
+// WatchSwimMate Watch App/WatchViews/WorkoutViews/SwimmingSummaryView.swift
 
 import Foundation
 import HealthKit

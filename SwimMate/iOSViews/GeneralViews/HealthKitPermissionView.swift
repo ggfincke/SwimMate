@@ -1,9 +1,5 @@
-//
-//  HealthKitPermissionView.swift
-//  SwimMate
-//
-//  Created by Garrett Fincke on 4/14/24.
-//
+// SwimMate/iOSViews/GeneralViews/HealthKitPermissionView.swift
+
 import SwiftUI
 import HealthKit
 import HealthKitUI

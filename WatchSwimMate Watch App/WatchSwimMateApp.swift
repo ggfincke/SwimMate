@@ -1,11 +1,4 @@
-//
-//  WatchSwimMateApp.swift
-//  WatchSwimMate Watch App
-//
-//  Created by Garrett Fincke on 4/26/24.
-//
-
-// TODO: PREP FOR REACT NATIVE MOVE
+// WatchSwimMate Watch App/WatchSwimMateApp.swift
 
 import SwiftUI
 import HealthKit
